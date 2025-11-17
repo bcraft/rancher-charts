@@ -1,5 +1,5 @@
 helmRepo:
-  cname: charts.rancher.io
+  cname: bcraft.github.io/rancher-charts
 
 validate:
   url: https://github.com/rancher/charts.git
